@@ -1805,7 +1805,7 @@ _Related: [Software Development - IDE & Tools](#software-development---ide--tool
 
 - [Appsmith](https://www.appsmith.com/) - Cloud or self-hosted open-source platform to build admin panels, CRUD apps and workflows. Build everything you need, 10x faster. ([Source Code](https://github.com/appsmithorg/appsmith)) `Apache-2.0` `Java/Docker/K8S`
 - [Appwrite](https://appwrite.io) - End to end backend server for web, native, and mobile developers 🚀. ([Source Code](https://github.com/appwrite/appwrite)) `BSD-3-Clause` `Docker`
-- [CASE](https://case.app) - Lightweight BaaS (Backend As A Service) requiring minimal coding, with database, admin panel, API, and Javascript SDK. ([Source Code](https://github.com/casejs/case)) `MIT` `Nodejs`
+- [Manifest](https://manifest.build) - Lightweight BaaS (Backend As A Service) requiring minimal coding, with database, admin panel, API, and Javascript SDK. ([Source Code](https://github.com/mnfst/manifest)) `MIT` `Nodejs`
 - [Dashpress](https://github.com/dashpresshq/dashpress) - Generate fully functional admin apps in seconds from your database information, with a single command. ([Demo](https://demo.dashpress.io/auth)) `AGPL-3.0` `Nodejs/Docker`
 - [Motor Admin](https://www.getmotoradmin.com/) - No-code admin panel and business intelligence software - search, create, update, and delete data entries, create custom actions, and build reports. ([Source Code](https://github.com/motor-admin/motor-admin)) `AGPL-3.0` `Ruby/Docker`
 - [PocketBase](https://pocketbase.io/) - Open Source backend for your next SaaS and Mobile app in 1 file. ([Source Code](https://github.com/pocketbase/pocketbase)) `MIT` `Go/Docker`
